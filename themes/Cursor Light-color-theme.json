@@ -365,7 +365,7 @@
       "name": "<div> < color",
       "scope": "punctuation.definition.tag",
       "settings": {
-        "foreground": "#800000",
+        "foreground": "#5E5E5F",
         "fontStyle": ""
       }
     },
@@ -1128,7 +1128,7 @@
       "name": "Constants",
       "scope": "punctuation.definition.constant",
       "settings": {
-        "foreground": "#f59e0b"
+        "foreground": "#A49BD8"
       }
     },
     {
